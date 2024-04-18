@@ -13,6 +13,6 @@
 ## Model
 CatBoostClassifier + Optuna (hyper-parameter tuning) 
 
-기본 catboost 모델에 가장 높은 가중치(0.4)를 주고 튜닝한 4개의 모델들은 동일한 가중치(0.15)를 주어 soft voting 진행
+기본 catboost 모델에 가장 높은 가중치(0.4)를 주고 튜닝한 4개의 모델들에 동일한 가중치(0.15)를 주어 soft voting 진행
 
 <img width="1256" alt="image" src="https://github.com/yammayamm/LGAimers4-MQL/assets/49015100/1ee965c9-3f54-4cd3-9f1c-7bb1a8d603b2">
