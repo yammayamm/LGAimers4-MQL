@@ -4,7 +4,8 @@
 ## LG Aimers 4기
 - 해커톤 주제: MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개발
 
-  <img width="658" alt="image" src="https://github.com/yammayamm/LGAimers4-MQL/assets/49015100/66990dca-d638-40c0-bc3f-7388e1f6dfcb">
+<img width="1286" alt="image" src="https://github.com/yammayamm/LGAimers4-MQL/assets/49015100/719da981-aede-4229-82c9-bd8499b5845d">
+
 
 - 기간: 2024.02.01\~2024.02.26(온라인), 2024.04.06~2024.04.07(오프라인)
 - 결과: Public 3rd, Private(Final) 3rd 🥉
@@ -16,3 +17,7 @@ CatBoostClassifier + Optuna (hyper-parameter tuning)
 기본 catboost 모델에 가장 높은 가중치(0.4)를 주고 튜닝한 4개의 모델들에 동일한 가중치(0.15)를 주어 soft voting 진행
 
 <img width="1256" alt="image" src="https://github.com/yammayamm/LGAimers4-MQL/assets/49015100/1ee965c9-3f54-4cd3-9f1c-7bb1a8d603b2">
+
+## 해커톤 후기
+
+[link](https://blog.naver.com/ai-techblog/223411732205)
