@@ -8,6 +8,7 @@
 
 
 - 기간: 2024.02.01\~2024.02.26(온라인), 2024.04.06~2024.04.07(오프라인)
+- 팀명: BADA (**B**igdata **A**lgorithms **D**rive **A**dvancements)
 - 결과: Public 3rd, Private(Final) 3rd 🥉
   ![image](https://github.com/yammayamm/LGAimers4-MQL/assets/49015100/855810d1-f578-4926-8bcd-6fb8052b99f5)
 
